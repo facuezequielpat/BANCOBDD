@@ -1,4 +1,4 @@
--- Este es un script SQL
+
 
 drop database if exists banco;
 create database banco;
